@@ -128,7 +128,7 @@ body{
   align-items: center;
   justify-content: center;
   color:white;
-   font-size:40px;
+  font-size:40px;
   font-weight: 700px;
 }
 .offer-div-3{
@@ -296,10 +296,9 @@ body{
   text-align: center;
   align-items: center;
   justify-content: center;
-  
 }
 .offer-div-2{
- width:367px;
+  width:367px;
   height:197px;
   border-radius: 14px;
   border-radius: 14px;
